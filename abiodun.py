@@ -85,13 +85,13 @@ def logo():
 
 	os.system("clear")
 
-	print("""\033[1;97m  ABIODUN \033[1;0m
+	print("""\033[1;97m  EM ABIODUN \033[1;0m
 
 \033[1;97m--------------------------------------------------
 
 \033[1;93m➤\033[1;97m Author   : EMABIODUN
 
-\033[1;93m➤\033[1;97m Github   : https://github.com/emabiodun/crackfb.git
+\033[1;93m➤\033[1;97m Github   : https://github.com/emabiodun/Abiodun
 
 \033[1;93m➤\033[1;97m Whatsapp : +2349063086048
 
