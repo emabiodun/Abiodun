@@ -6,21 +6,13 @@ import os
 
 
 try:
-
 	import requests
-	
-	ImportError:
-
-	
-
+except ImportError:
 	os.system("pip2 install requests")
 
 try:
-
 	import bs4
-
 except ImportError:
-
 	os.system("pip2 install bs4")
 
 import os, sys, re, time, requests, json, random, calendar
