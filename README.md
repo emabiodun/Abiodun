@@ -20,6 +20,6 @@ $ apt install git
 
 $ git clone https://github.com/emabiodun/Abiodun
 
-$ cd crackfb
+$ cd Abiodun
 
 $ python2 abiodun.py
